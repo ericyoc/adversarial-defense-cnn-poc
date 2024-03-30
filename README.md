@@ -70,7 +70,7 @@ The code provides a summary of the model's performance at different stages:
 - Performance under adversarial attack without defense
 - Performance under adversarial attack with defense (adversarial training)
 
-The summary includes metrics such as loss, accuracy, precision, recall, F1-score, and ROC AUC score. It also displays examples of misclassified images at each stage.
+The summary includes metrics such as loss, accuracy, precision, recall, F1-score, and ROC AUC score. It also displays examples of misclassified images at each stage [CNN Results](https://github.com/ericyoc/adversarial-defense-cnn/tree/main/cnn_results).
 
 ## Note
 
