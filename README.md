@@ -2,6 +2,9 @@
 
 This repository contains Python code for training a Convolutional Neural Network (CNN) model on the MNIST or EMNIST datasets and evaluating its performance under adversarial attacks. The code also includes adversarial training as a defense mechanism against the attacks.
 
+## Motivating Article
+D. J. Miller, Z. Xiang and G. Kesidis, "Adversarial Learning Targeting Deep Neural Network Classification: A Comprehensive Review of Defenses Against Attacks," in Proceedings of the IEEE, vol. 108, no. 3, pp. 402-433, March 2020, doi: 10.1109/JPROC.2020.2970615. https://ieeexplore.ieee.org/document/9013065
+
 ## Adversarial Attacks
 
 The code implements three common adversarial attacks:
