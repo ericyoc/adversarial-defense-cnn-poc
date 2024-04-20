@@ -80,3 +80,7 @@ The summary includes metrics such as loss, accuracy, precision, recall, F1-score
 The code assumes that the dataset files are stored on Google Drive and that Google Drive will be mounted with the default directory structure. Make sure to adjust the file paths and directory structure if necessary.
 
 For detailed information on the code and its functionality, please refer to the code comments and the provided Python code.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
